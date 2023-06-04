@@ -1,0 +1,296 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit', sans-serif;
+}
+
+header{
+    padding-right: 130px;
+    padding-left: 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    border: solid #DED9D9 1px;
+    padding-bottom: 30px;
+}
+
+.logo{
+    width: 64px;
+    height: 31px;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    padding-right: 48px;
+}
+
+
+
+button{
+    border-radius: 50px;
+    background-color: rgba(47, 47, 47, 1);
+    padding: 10px;
+    color:white;
+    border: 1px solid black;
+}
+
+main{
+
+   
+    padding-top: 200px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.disp1{
+display: flex;
+padding-bottom: 150px;
+padding-right: 150px;
+padding-left: 150px;
+}
+
+h2{
+    font-size: 13px;
+    color: rgba(130, 203, 172, 1);
+}
+
+h1{
+    font-size: 64px;
+    font-weight: 400px;
+}
+
+p{
+    font-size: 17px;
+}
+
+.oneimg{
+    padding-left: 500px;
+}
+
+
+.two2{
+  height: 165px;
+  width: 100%;
+}
+
+.info{
+    padding-top: 128px;
+}
+
+.h2two{
+    color:black;
+    font-size: 64px;
+    text-align: center;
+}
+
+.pi{
+    font-size: 17px;
+    color:black;
+    text-align: center;
+}
+
+.btn1{
+    margin-left: 128px;
+    font-size: 22px;
+    width: 179px;
+    height: 50px;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    margin-top: 78px;
+}
+
+.btn{
+    margin-left: 8px;
+    font-size: 22px;
+    width: 179px;
+    height: 50px;
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    margin-top: 78px;
+}
+
+.btn1:hover{
+    background-color: rgba(47, 47, 47, 1);
+    border: 1px rgba(47, 47, 47, 1) solid;
+    color:white;
+}
+
+.btn:hover{
+    background-color: rgba(47, 47, 47, 1);
+    border: 1px rgba(47, 47, 47, 1) solid;
+    color:white;
+}
+
+
+.man{
+    padding-top: 64px;
+    padding-bottom: 146px;
+    padding-right: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.man_pfoto{
+    height: 395px;
+    padding-left: 300px;
+}
+
+.texts{
+    padding-top: 60px;
+    align-items: center;
+}
+
+.pfoto_text1{
+    color:rgba(255, 127, 150, 1);
+    font-size: 16px;
+}
+
+.pfoto_text2{
+    font-size: 35px;
+}
+
+.pfoto_text3{
+    font-size: 20px;
+    width: 600px;
+}
+
+.picture{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 146px;
+}
+
+.picture1{
+    width: 585px;
+    height: 450px;
+    padding-left: 200px;
+}
+
+.picture_text{
+    align-items: center;
+}
+
+.picture_comment{
+    font-size: 35px;
+    padding-right: 500px;
+}
+
+.picture_comment2{
+    font-size: 48px;
+    padding-right: 200px;
+}
+
+.picture_comment3{
+    font-size: 18px;
+    max-width: 545px;
+    padding-right: 170px;
+}
+
+.more{
+    border: 1px rgba(47, 47, 47, 1) solid;
+    border-radius: 0;
+    margin-left: 360px;
+    padding-right: 40px;
+    font-size: 15px;
+    padding-left: 40px;
+}
+
+.more:hover{
+    background-color: black;
+    color:white;
+}
+
+.infor{
+    margin-top: 150px;
+    display: flex;
+    margin-left: 184px;
+    margin-right: 120px;
+    justify-content: space-between;
+    margin-bottom: 141px;
+}
+
+.textes{
+    margin-right: 153px;
+    align-items: center;
+
+}
+
+.description_text {
+    font-size: 16px;
+    color: white;
+    border: 1px solid rgba(130, 203, 172, 1);
+    background-color: rgba(130, 203, 172, 1);
+    width: 57px;
+    border-radius: 50px;
+    text-align: center;
+    height: 25px;
+} 
+.description_text3 {
+    font-size: 16px;
+    color: white;
+    border: 1px solid rgba(255, 127, 150, 1);
+    background-color: rgba(255, 127, 150, 1);
+    width: 57px;
+    border-radius: 50px;
+    text-align: center;
+    height: 25px;
+}
+.description_text5{
+    font-size: 16px;
+    color: white;
+    border: 1px solid rgba(234, 215, 27, 1);
+    background-color: rgba(234, 215, 27, 1);
+    width: 57px;
+    border-radius: 50px;
+    text-align: center;
+    height: 25px;
+}
+
+h3{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.description_text2 , .description_text4 , .description_text6{
+    font-size: 18px;
+    max-width: 431px;
+    margin-bottom: 32px;
+}
+
+.fon2{
+    background-color: rgba(130, 203, 172, 1);
+    height: 450px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.NFT{
+    padding-top: 64px;
+    font-size: 64px;
+    padding-left: 35%;
+    width: 657px;
+    text-align: center;
+}
+
+.NFT2{
+  font-size: 20px;
+   width: 655px;
+   text-align: center;
+   padding-left: 35%;
+}
+
+.Open{
+    background-color: rgba(47, 47, 47, 1);
+    border-radius: 0;
+    border:1px solid rgba(47, 47, 47, 1);
+    font-size: 15px;
+    margin-left: 49%;
+}
+
